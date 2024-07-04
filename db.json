@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin User",
+      "email": "admin@demoapp.com",
+      "status": "1",
+      "password": "demoapp123"
+    },
+    {
+      "id": "EMP001",
+      "name": "Tony Stark",
+      "email": "tony123@gmail.com",
+      "status": "0"
+    },
+    {
+      "id": "EMP002",
+      "name": "Steve Rogers",
+      "email": "cap12@yahoo.com",
+      "status": "1"
+    },
+    {
+      "id": "EMP003",
+      "name": "Natasha Romanoff",
+      "email": "w10@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "EMP004",
+      "name": "Bruce Banner",
+      "email": "hulk03@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "EMP005",
+      "name": "Cint Barton",
+      "email": "ch@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "EMP006",
+      "name": "Hill",
+      "email": "hf@gmail.com",
+      "status": "0"
+    },
+    {
+      "id": "EMP007",
+      "name": "Nick Fury",
+      "email": "nk@yahoo.com",
+      "status": "0"
+    },
+    {
+      "id": "EMP008",
+      "name": "Colson",
+      "email": "c12@gmail.com",
+      "status": "1"
+    }
+  ]
+}
